@@ -2,4 +2,4 @@ streamlit
 pandas
 selenium
 webdriver-manager
-beautifullsoup4
+beautifulsoup4
